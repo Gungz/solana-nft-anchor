@@ -8,7 +8,7 @@ skip-lint = false
 solana_nft_anchor = "DqRqXYZvkZ23E1bg2oMsYHX4mnA8E3xG55J9XjwiFgWC"
 
 [programs.devnet]
-solana_nft_anchor = ""
+solana_nft_anchor = "DqRqXYZvkZ23E1bg2oMsYHX4mnA8E3xG55J9XjwiFgWC"
 
 [registry]
 url = "https://api.apr.dev"
